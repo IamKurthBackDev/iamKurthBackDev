@@ -5,7 +5,7 @@ I'm a Developer focused on solving algorithmic challenges and building robust ap
 ### 🛠 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
   </a>
 </p>
 
