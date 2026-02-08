@@ -1,11 +1,11 @@
-## Hi there, I'm Kurth! 👋
+## Yo, I'm Kurth!
 
-I'm a Developer focused on solving algorithmic challenges and building robust applications.
+I'm a Backend Dev that still learning and adapting to changes.
 
 ### 🛠 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,github,vscode" />
   </a>
 </p>
 
