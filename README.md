@@ -5,7 +5,7 @@ I'm a Backend Dev that still learning and adapting to changes.
 ### My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cobol,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,java,cbl,github,vscode" />
   </a>
 </p>
 
