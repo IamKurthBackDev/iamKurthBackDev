@@ -22,6 +22,7 @@ I'm a Backend Dev that's still learning and adapting to changes.
 
 ### **Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,bruno,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,postman" />
+  <img src = https://img.shields.io/badge/Bruno-FF6B6B?style=for-the-badge&logo=bruno&logoColor=white />
 </p>
 
