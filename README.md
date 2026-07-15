@@ -1,6 +1,6 @@
 ## Yo, I'm Kurth!
 
-Aspiring Java Dev despite of everything.
+Aspiring Senior Java Dev despite of everything:)
 
 ### **Languages:**
 <p align="left">
@@ -8,9 +8,10 @@ Aspiring Java Dev despite of everything.
   <img src="https://img.shields.io/badge/COBOL-253488?style=for-the-badge&logo=ibm&logoColor=white" height="48" />
 </p>
 
-### Framework:
+### Frameworks:
 <p align = "left">
   <img src = https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white />
+  <img src = https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white />
   
   </p>
 
