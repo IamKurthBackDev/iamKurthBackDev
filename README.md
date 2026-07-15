@@ -4,7 +4,7 @@ Aspiring Senior Java Dev despite of everything:)
 
 ### **Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img src="https://skillicons.dev/icons?i=java,c,php" />
   <img src="https://img.shields.io/badge/COBOL-253488?style=for-the-badge&logo=ibm&logoColor=white" height="48" />
 </p>
 
